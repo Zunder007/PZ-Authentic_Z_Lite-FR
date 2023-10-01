@@ -55,6 +55,7 @@ Tooltip_FR = {
 /* Update 2-20-22 */
 	Tooltip_JPCane = "La vie trouve un chemin.",
 	Tooltip_TagillaHelmet = "UBEY",
+
 /* Update 5-07-22 */
 	Tooltip_AZSleepingBag = "Le dérouler et le placer.",
 	Tooltip_AZSleepingBag2 = "Faites un clic droit pour dormir.",
