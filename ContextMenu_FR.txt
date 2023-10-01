@@ -35,7 +35,7 @@ ContextMenu_FR = {
 
 	/* Tronçonneuse */
 
-	ContextMenu_Start_Chainsaw = "Démarrer le tronçonneuse",
+	ContextMenu_Start_Chainsaw = "Démarrer la tronçonneuse",
 	ContextMenu_Stop_Chainsaw = "Arrêter la tronçonneuse",
 	ContextMenu_Refuel_Chainsaw = "Remplir la tronçonneuse",
 	ContextMenu_Unjam_Chainsaw = "Désenrayer la tronçonneuse",
