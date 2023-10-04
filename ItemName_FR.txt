@@ -19,6 +19,10 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.SpiffoBlueberry = "Spiffo Myrtille",
 	ItemName_AuthenticZLite.SpiffoCherry = "Spiffo Cerise",
 	ItemName_AuthenticZLite.SpiffoShamrock = "Spiffo Trèfle",
+	ItemName_AuthenticZLite.SpiffoPlushieHeart = "Spiffo Coeur",
+	ItemName_AuthenticZLite.SpiffoPlushieBlueberry = "Spiffo Myrtille",
+	ItemName_AuthenticZLite.SpiffoPlushieCherry = "Spiffo Cerise",
+	ItemName_AuthenticZLite.SpiffoPlushieShamrock = "Spiffo Trèfle",
 	ItemName_AuthenticZLite.SpiffoPlushieRainbow = "Spiffo Arc-En-Ciel",
 	ItemName_AuthenticZLite.SpiffoSanta = "Spiffo Père Noël",
 	ItemName_AuthenticZLite.Doll = "Poupée",
@@ -250,6 +254,7 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.Fat02_PonchoDown = "Imperméable noir (XXL)",
 	ItemName_AuthenticZLite.Fat02_SportShorts = "Pantalon de sport (XXL)",
 	ItemName_AuthenticZLite.Fat02_Fat02_Boxers = "Boxer (XXL)",
+	ItemName_AuthenticZLite.Fat02_Boxers = "Boxer (XXL)",
 	ItemName_AuthenticZLite.Fat02_ShellPants = "Pantalon de survêtement (XXL)",
 	ItemName_AuthenticZLite.Fat02_Shoes = "Chaussures (XXL)",
 	ItemName_AuthenticZLite.Fat02_TShirt = "T-Shirt (XXL)",
@@ -449,7 +454,7 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.Hat_DeathMask = "Masque de mort",
 	ItemName_AuthenticZLite.Hat_DeerSkull = "Crâne de cerf",
 	ItemName_AuthenticZLite.Hat_Dimitrescu = "Chapeau de Lady Dimitrescu",
-	ItemName_AuthenticZLite.Hat_Dimitrescu_Back =  "Chapeau de Lady Dimitrescu",
+	ItemName_AuthenticZLite.Hat_Dimitrescu_Back = "Chapeau de Lady Dimitrescu",
 	ItemName_AuthenticZLite.Hat_DRLegoHead = "Masque de Lego",
 	ItemName_AuthenticZLite.Hat_FastFood_Donut = "Chapeau de serveur Donut",
 	ItemName_AuthenticZLite.Hat_FedoraWhite = "Chapeau fedora blanc",
@@ -662,6 +667,8 @@ ItemName_FR = {
 	ItemName_Base.Stomach_Intestines = "Intestins",
 	ItemName_Base.Stomach_Intestines2 = "Intestins",
 	ItemName_Base.Stomach_Intestines3 = "Intestins",
+	ItemName_AuthenticZLite.Stomach_Intestines = "Intestins",
+	ItemName_AuthenticZLite.Stomach_Intestines2 = "Intestins",
 
 /* AuthenticZ_clothing_others */
 	ItemName_AuthenticZLite.AmmoStrap_Bullets1 = "Sangle de munitions",
@@ -753,6 +760,7 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.MakeUp_Pennywise = "Maquillage Pennywise",
 	ItemName_AuthenticZLite.MakeUp_ShotgunFace = "Maquillage Acné",
 	ItemName_AuthenticZLite.Mask_Oni = "Masque Oni",
+	ItemName_AuthenticZLite.Hat_Mask_Oni = "Masque Oni",
 	ItemName_AuthenticZLite.Mask_Samurai = "Masque de Samouraï",
 	ItemName_AuthenticZLite.Necklace_NeckProtector = "Protecteur de cou de Samouraï",
 	ItemName_AuthenticZLite.Rose_Dimitrescu = "Rose noire",
@@ -1032,6 +1040,7 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.CEDAHazmatSuitRedNoMask = "Combinaison Hazmat CEDA rouge",
 	ItemName_AuthenticZLite.NBHHazmatSuit = "Combinaison de risque biologique nucléaire",
 	ItemName_AuthenticZLite.NBHHazmatSuitNoShoes = "Combinaison de risque biologique nucléaire",
+	ItemName_AuthenticZLite.HazmatSuitNBHNoShoes = "Combinaison de risque biologique nucléaire",
 	ItemName_AuthenticZLite.Dress_BallroomDress_Elegant = "Robe ronde élégante",
 	ItemName_AuthenticZLite.Dress_BallroomDress_LongSleevedButtoned = "Robe ronde à manches longues",
 	ItemName_AuthenticZLite.Dress_BallroomDress_LongSleevedButtonedApron = "Robe ronde à manches longues avec tablier",
@@ -1225,7 +1234,7 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.AZ_BeardStyle09 = "Barbe",
 
 
-/* La suite n'est pas trouvable dans les ficheirs du mod */
+/* La suite n'est pas trouvable dans les fichiers du mod */
 /* Je les laisse en commentaire au cas où... */
 
 /*
