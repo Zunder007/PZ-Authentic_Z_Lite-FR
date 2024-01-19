@@ -3,6 +3,12 @@ UI_FR = {
 
 UI_ClothingType_AmmoStrap2 = "Sangle à munitions 2",
 
+UI_ClothingType_HeadExtra = "Extra (Tête)",
+UI_ClothingType_LegsExtra = "Extra (Jambe)",
+UI_ClothingType_TorsoRigPlus2 = "Extra (Taille)",
+UI_ClothingType_TorsoExtraPlus1 = "Extra (Torse)",
+
+
 UI_optionscreen_binding_Hotbar 6 = "Raccourci 6",
 UI_optionscreen_binding_Hotbar 7 = "Raccourci 7",
 UI_optionscreen_binding_Hotbar 8 = "Raccourci 8",
