@@ -19,4 +19,7 @@ UI_optionscreen_binding_Hotbar 18 = "Raccourci 18",
 UI_optionscreen_binding_Hotbar 19 = "Raccourci 19",
 UI_optionscreen_binding_Hotbar 20 = "Raccourci 20",
 UI_optionscreen_binding_SlingBindings = "Raccourcis supplémentaires Authentic Z",
+
+/* Update 2023 */
+	UI_Fuel_Remaining = "Carburant restant: ",
 }
