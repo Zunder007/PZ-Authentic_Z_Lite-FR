@@ -69,4 +69,7 @@ Tooltip_FR = {
 	Tooltip_SizeXL  = "Taille : XL",
 	Tooltip_Size2XL  = "Taille : 2XL",
 	Tooltip_Size3XL  = "Taille : 3XL",
+
+/* Update 2023 */
+	Tooltip_SubstitutionDoll = "La poupée de la tromperie",
 }
