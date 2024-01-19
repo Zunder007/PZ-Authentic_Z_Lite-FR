@@ -89,4 +89,11 @@ IGUI_FR = {
 	IGUI_HotbarAttachment_AlicepackSleepingRoll = "Sac Militaire Emplacement de sac de couchage",
 
 	IGUI_AuthenticZ_Manage_Slots = "AuthenticZ Gestion des emplacements",
+
+/* Update 2023 */
+	IGUI_ItemCat_Chainsaw = "Tronçonneuse",
+	IGUI_ItemEditor_FuelConsumption = "Consommation de carburant",
+	IGUI_ItemEditor_CurrentFuel = "Carburant actuel",
+	IGUI_ItemEditor_FuelCapacity = "Capacité de carburant",
+	IGUI_ItemEditor_RetrieveFuel = "Récupérer du carburant",
 }
