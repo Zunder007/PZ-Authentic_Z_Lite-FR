@@ -1233,6 +1233,19 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.AZ_BeardStyle08 = "Barbe",
 	ItemName_AuthenticZLite.AZ_BeardStyle09 = "Barbe",
 
+/* Update 2023 */
+	ItemName_AuthenticZLite.Hat_Bonnet_Tied = "Bonnet (Noué)",
+	ItemName_AuthenticZLite.Hat_Bonnet_UnTied = "Bonnet (Détaché)",
+	ItemName_AuthenticZLite.Hat_TopHat_AZ = "Haut-de-forme",
+	ItemName_AuthenticZLite.Shirt_UndershirtFancy = "Maillot de corps fantaisie",
+	ItemName_AuthenticZLite.SubstitutionDoll = "Poupée de substitution",
+	ItemName_AuthenticZLite.ChainsawOff = "Tronçonneuse (À l'arrêt)",
+
+	ItemName_AuthenticZLite.AuthenticIceAxe = "Piolet",
+	ItemName_AuthenticZLite.Belt_AZ = "Ceinture avec Boucle",
+	ItemName_AuthenticZLite.Dress_BallroomDress_Kansas = "Robe ronde de style Kansas",
+	ItemName_AuthenticZLite.Dress_BallroomDress_Lavish = "Robe ronde somptueuse",
+	ItemName_AuthenticZLite.InvisibleSuit = "Costume invisible",
 
 /* La suite n'est pas trouvable dans les fichiers du mod */
 /* Je les laisse en commentaire au cas où... */
