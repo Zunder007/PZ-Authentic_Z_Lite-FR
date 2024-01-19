@@ -50,4 +50,15 @@ ContextMenu_FR = {
 
 	/* Update 3-3-23 */
 	ContextMenu_WearSideways = "Porté sur le côté",
+
+	/* Update 2023 */
+	ContextMenu_UntieBonnet = "Détacher le bonnet",
+	ContextMenu_TieBonnet = "Nouer le bonnet",
+	ContextMenu_Wear1XS = "À porter en XS",
+	ContextMenu_Wear1XL = "À porter en 1 XL",
+	ContextMenu_Wear2XL = "À porter en 2 XL",
+	ContextMenu_Wear3XL = "À porter en 3 XL",
+	ContextMenu_Stopping_Chainsaw = "Arrêter la tronçonneuse",
+	ContextMenu_Fuel_Left = "Carburant restant: ",
+	ContextMenu_RetrieveFuel_Chainsaw = "Récupérer du carburant",
 }
