@@ -78,4 +78,8 @@ Recipes_FR = {
 
 	Recipe_Open_Sleeping_Bag = "Déballer le sac de couchage",
 	Recipe_Close_Sleeping_Bag = "Remballer le sac de couchage",
+
+/* Update 2023 */
+	Restart Chainsaw = "Redémarrer la tronçonneuse",
+	fixing_Fix_Chainsaw = "Réparer la tronçonneuse",
 }
