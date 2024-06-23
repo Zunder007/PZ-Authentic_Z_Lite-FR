@@ -1247,6 +1247,14 @@ ItemName_FR = {
 	ItemName_AuthenticZLite.Dress_BallroomDress_Lavish = "Robe ronde somptueuse",
 	ItemName_AuthenticZLite.InvisibleSuit = "Costume invisible",
 
+/* Update juin 2024 */
+	ItemName_AuthenticZLite.AuthenticBalloonGroup_Teal = "Groupe de ballons turquoise",
+	ItemName_AuthenticZLite.Hat_Court_Jester = "Chapeau de bouffon de la cour",
+	ItemName_AuthenticZLite.Hat_Graduation_Cap = "Casquette de remise des diplômes",
+	AuthenticZLite.AuthenticBalloon_Teal = "Ballon turquoise",
+	AuthenticZClothing.Hat_CourtJester = "Chapeau de bouffon de la cour",
+	AuthenticZClothing.Hat_GraduationCap = "Casquette de remise des diplômes",
+
 /* La suite n'est pas trouvable dans les fichiers du mod */
 /* Je les laisse en commentaire au cas où... */
 
